@@ -1,0 +1,43 @@
+
+@charset "UTF-8";
+
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+
+
+nav{
+    background-color: black;
+}
+
+h1{
+    color: azure;
+    font-size: 500%;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+li{
+    color: aliceblue;
+    font-size: 200%;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+div.dadosPessoais{
+    text-align: start;
+    padding-left: 10%;
+}
+
+h2{
+    text-align: start;
+    padding-left: 10%;
+
+}
+
+a{
+    
+    color: aqua;
+    font-size: 150%;
+    font-family: 'Courier New', Courier, monospace;
+}
