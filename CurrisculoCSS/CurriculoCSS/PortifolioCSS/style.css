@@ -1,0 +1,86 @@
+
+@charset "UTF-8";
+
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+
+
+nav.dadosPessoais{
+    background-color: #5291F2;
+    text-align: center;
+}
+
+h1{
+    color: azure;
+    font-size: 300%;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+
+li{
+    color: aliceblue;
+    font-size: 150%;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+div.contatos{
+    text-align: start;
+    padding-left: 10%;
+}
+
+div.Habilidades{
+    text-align: center;
+    width: 150px;
+    height: 150px;
+    border: 10px solid #56C3FC;
+    padding: 10px;
+    background-color: #52F2A6;
+    
+}
+
+.personalidade{
+    background-color: #5ADAE6;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
+.identificacao{
+    position: relative;
+    left: 5px;
+    border: 10px solid #56FCDC;
+}
+
+
+p.Habilidades{
+    font-size: 50px;
+
+
+}
+
+span.Habilidades{
+    color: blue;
+}
+
+span.personalidade{
+    color: blue;
+}
+
+
+
+h2{
+    text-align: start;
+    padding-left: 10%;
+
+}
+
+a{
+    
+    color: rgb(0, 0, 0);
+    font-size: 150%;
+    font-family: 'Courier New', Courier, monospace;
+}
